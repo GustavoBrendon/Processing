@@ -1,1 +1,1 @@
-#Repositório criado para a matéria de Processing, no IFMG/SJE.
+Repositório criado para a matéria de Processing, no IFMG/SJE.
