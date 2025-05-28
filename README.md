@@ -1,4 +1,3 @@
-
 # Processing – Projetos Acadêmicos
 
 Este repositório contém atividades desenvolvidas na disciplina de *Processing* do Instituto Federal de Minas Gerais – Campus São João Evangelista (IFMG/SJE). O objetivo é explorar conceitos de programação visual e computação criativa utilizando a linguagem Processing.
@@ -7,14 +6,30 @@ Este repositório contém atividades desenvolvidas na disciplina de *Processing*
 
 O repositório está organizado da seguinte forma:
 
-- `aula01_processing.pde`: Primeiro exercício introdutório em Processing.
-- `aula02_processing/`: Atividades da segunda aula.
-- `aula03/`: Conteúdo e exercícios da terceira aula.
-- `atividade04/`: Quarta atividade prática.
-- `atividade04_b/`: Versão alternativa ou complementar da atividade 04.
-- `atividade_05/`: Quinta atividade prática.
-- `Atividade 04 - Processing.pdf`: Descrição da quarta atividade em formato PDF.
-- `sketch.properties`: Arquivo de configuração do ambiente Processing.
+    ├── README.md
+    ├── 02-04/
+    │   ├── aula01_processing.pde
+    │   └── sketch.properties
+    ├── 09-04/
+    │   └── aula02_processing.pde
+    ├── 16-04/
+    │   ├── atividade/
+    │   │   └── atividade.pde
+    │   └── aula03/
+    │       ├── aula03.pde
+    │       └── data/
+    │           └── Proxy3-48.vlw
+    ├── 28-05/
+    │   └── main/
+    │       ├── Elemento.pde
+    │       └── main.pde
+    ├── Atividade-4/
+    │   └── atividade04.pde
+    ├── Atividade-4B/
+    │   └── atividade04_b.pde
+    └── Atividade-5/
+        └── atividade_05.pde
+
 
 ## 🚀 Como Executar os Projetos
 
@@ -23,8 +38,3 @@ O repositório está organizado da seguinte forma:
 
    ```bash
    git clone https://github.com/GustavoBrendon/Processing.git
-   ```
-
-3. Abra o Processing e carregue o arquivo `.pde` desejado.
-4. Execute o sketch clicando no botão "Run" (ícone de play).
-
