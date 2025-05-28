@@ -38,3 +38,7 @@ O repositório está organizado da seguinte forma:
 
    ```bash
    git clone https://github.com/GustavoBrendon/Processing.git
+
+3. No Processing, vá em Arquivo > Abrir... e selecione o arquivo `.pde` desejado.
+4. Clique no botão "Executar" (ícone de play) para visualizar o sketch.
+
